@@ -1,0 +1,5 @@
+export const ADD_CURRENCY = "ADD_CURRENCY";
+export const REMOVE_CURRENCY = "REMOVE_CURRENCY";
+export const REQUEST_SENT = "REQUEST_SENT";
+export const GET_MAIN_DATA_SUCCESS = "GET_MAIN_DATA_SUCCESS";
+export const ADD_ERROR = "ADD_ERROR";
